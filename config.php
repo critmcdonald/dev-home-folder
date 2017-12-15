@@ -16,7 +16,7 @@
 $dir = array("/www/projects/*");
 					
 /** Your local top level domain */
-$tld = 'dev';
+$tld = 'local';
 
 /*
 *
